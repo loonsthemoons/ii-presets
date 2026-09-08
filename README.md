@@ -12,6 +12,7 @@ Community presets collection for [Illogical Impulse](https://github.com/vaxerski
 - **supra** (`supra`, v1.0.0) — purple & black, supra car & girl, nothing widgets
 - **plushie** (`plushie`, v1.0.0) — bright green & white plushie preset
 - **MaoMao** (`maomao`, v1.0.0) — green, anime girl, maomao :3
+- **nirvana** (`nirvana`, v1.0.0) — blue, nirvana girl
 
 ## How to Install
 

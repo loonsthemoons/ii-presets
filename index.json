@@ -94,6 +94,15 @@
             "screenshots": [
                 "presets/maomao/screenshots/1.png"
             ]
+        },
+        {
+            "id": "nirvana",
+            "name": "nirvana",
+            "description": "blue, nirvana girl",
+            "version": "1.0.0",
+            "configVersion": 19,
+            "path": "presets/nirvana",
+            "wallpaper": "presets/nirvana/wallpaper.png"
         }
     ]
 }
