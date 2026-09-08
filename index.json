@@ -1,0 +1,18 @@
+{
+    "schema": 1,
+    "author": "loonsthemoons",
+    "presets": [
+        {
+            "id": "bluey",
+            "name": "bluey",
+            "description": "blue girl, minimalist",
+            "version": "1.0.0",
+            "configVersion": 13,
+            "path": "presets/bluey",
+            "wallpaper": "presets/bluey/wallpaper.png",
+            "screenshots": [
+                "presets/bluey/screenshots/1.png"
+            ]
+        }
+    ]
+}
