@@ -34,6 +34,18 @@
             "screenshots": [
                 "presets/fly/screenshots/1.png"
             ]
+        },
+        {
+            "id": "girlypop",
+            "name": "girlypop",
+            "description": "black & green preset, nothing widgets",
+            "version": "1.0.0",
+            "configVersion": 19,
+            "path": "presets/girlypop",
+            "wallpaper": "presets/girlypop/wallpaper.png",
+            "screenshots": [
+                "presets/girlypop/screenshots/1.png"
+            ]
         }
     ]
 }
