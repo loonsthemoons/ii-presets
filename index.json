@@ -70,6 +70,18 @@
             "screenshots": [
                 "presets/supra/screenshots/1.png"
             ]
+        },
+        {
+            "id": "plushie",
+            "name": "plushie",
+            "description": "bright green & white plushie preset",
+            "version": "1.0.0",
+            "configVersion": 19,
+            "path": "presets/plushie",
+            "wallpaper": "presets/plushie/wallpaper.png",
+            "screenshots": [
+                "presets/plushie/screenshots/1.png"
+            ]
         }
     ]
 }

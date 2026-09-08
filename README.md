@@ -10,6 +10,7 @@ Community presets collection for [Illogical Impulse](https://github.com/vaxerski
 - **girlypop** (`girlypop`, v1.0.0) — black & green preset, nothing widgets
 - **greenie** (`greenie`, v1.0.0) — green, yellow & pink, guitarist girl, smiley grafiti
 - **supra** (`supra`, v1.0.0) — purple & black, supra car & girl, nothing widgets
+- **plushie** (`plushie`, v1.0.0) — bright green & white plushie preset
 
 ## How to Install
 
