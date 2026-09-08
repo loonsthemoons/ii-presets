@@ -82,6 +82,18 @@
             "screenshots": [
                 "presets/plushie/screenshots/1.png"
             ]
+        },
+        {
+            "id": "maomao",
+            "name": "MaoMao",
+            "description": "green, anime girl, maomao :3",
+            "version": "1.0.0",
+            "configVersion": 19,
+            "path": "presets/maomao",
+            "wallpaper": "presets/maomao/wallpaper.jpeg",
+            "screenshots": [
+                "presets/maomao/screenshots/1.png"
+            ]
         }
     ]
 }
