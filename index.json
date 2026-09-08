@@ -22,6 +22,18 @@
             "configVersion": 19,
             "path": "presets/autumn",
             "wallpaper": "presets/autumn/wallpaper.png"
+        },
+        {
+            "id": "fly",
+            "name": "FLY",
+            "description": "colorful blue preset, anime girl, sky",
+            "version": "1.0.0",
+            "configVersion": 19,
+            "path": "presets/fly",
+            "wallpaper": "presets/fly/wallpaper.png",
+            "screenshots": [
+                "presets/fly/screenshots/1.png"
+            ]
         }
     ]
 }
