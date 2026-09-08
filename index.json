@@ -13,6 +13,15 @@
             "screenshots": [
                 "presets/bluey/screenshots/1.png"
             ]
+        },
+        {
+            "id": "autumn",
+            "name": "autumn",
+            "description": "orangey, plushie, bright & colorful",
+            "version": "1.0.0",
+            "configVersion": 19,
+            "path": "presets/autumn",
+            "wallpaper": "presets/autumn/wallpaper.png"
         }
     ]
 }

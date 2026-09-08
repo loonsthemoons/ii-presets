@@ -5,6 +5,7 @@ Community presets collection for [Illogical Impulse](https://github.com/vaxerski
 ## Available Presets
 
 - **bluey** (`bluey`, v1.0.0) — blue girl, minimalist
+- **autumn** (`autumn`, v1.0.0) — orangey, plushie, bright & colorful
 
 ## How to Install
 
