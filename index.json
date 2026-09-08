@@ -46,6 +46,18 @@
             "screenshots": [
                 "presets/girlypop/screenshots/1.png"
             ]
+        },
+        {
+            "id": "greenie",
+            "name": "greenie",
+            "description": "green, yellow & pink, guitarist girl, smiley grafiti",
+            "version": "1.0.0",
+            "configVersion": 19,
+            "path": "presets/greenie",
+            "wallpaper": "presets/greenie/wallpaper.jpg",
+            "screenshots": [
+                "presets/greenie/screenshots/1.png"
+            ]
         }
     ]
 }

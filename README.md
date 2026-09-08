@@ -8,6 +8,7 @@ Community presets collection for [Illogical Impulse](https://github.com/vaxerski
 - **autumn** (`autumn`, v1.0.0) — orangey, plushie, bright & colorful
 - **FLY** (`fly`, v1.0.0) — colorful blue preset, anime girl, sky
 - **girlypop** (`girlypop`, v1.0.0) — black & green preset, nothing widgets
+- **greenie** (`greenie`, v1.0.0) — green, yellow & pink, guitarist girl, smiley grafiti
 
 ## How to Install
 
