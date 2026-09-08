@@ -58,6 +58,18 @@
             "screenshots": [
                 "presets/greenie/screenshots/1.png"
             ]
+        },
+        {
+            "id": "supra",
+            "name": "supra",
+            "description": "purple & black, supra car & girl, nothing widgets",
+            "version": "1.0.0",
+            "configVersion": 19,
+            "path": "presets/supra",
+            "wallpaper": "presets/supra/wallpaper.png",
+            "screenshots": [
+                "presets/supra/screenshots/1.png"
+            ]
         }
     ]
 }
